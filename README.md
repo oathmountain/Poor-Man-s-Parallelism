@@ -10,17 +10,22 @@ The input requested by the user for the Mandelbrot is currently:
 4. max_c_im
 
   The max amount of iterations:
+  
 5. max_n
 
   Amount of pixels in width and height:
+  
 6. x
 7. y
 
   The amount of subpictures in each picture:
+  
 8. divisions
 
   The amount of servers to thread the workload to:
+  
 9. serverCount
 
   The servers address/port:
+  
 10-X. server 
